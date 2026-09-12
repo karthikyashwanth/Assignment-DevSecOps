@@ -1,0 +1,13 @@
+{
+  "com.northwind.oms.core": "67984cd37f7c010601cc105e5eef5ebc",
+  "com.northwind.oms.security": "f522d0d21b7bc801bf0d6760d6231704",
+  "com.northwind.oms.customer": "c822b494175d0fe2280c5fc6ef8d8fb3",
+  "com.northwind.oms.tpcl.org.slf4j": "7bb8115711bd70e87c3df87e71e57ec8",
+  "com.northwind.oms.inventory": "2dc075c1f265533f8567b74a639e7bb5",
+  "com.northwind.oms.pricing": "d816a6f8d9946095b98f0cdaf33c502a",
+  "com.northwind.oms.shipping": "2140dc4f206b51eea2a967827e261e78",
+  "com.northwind.oms.payment": "63955b0d366744e90d2bf782adfc9bfb",
+  "com.northwind.oms.gateway": "fc7c073a2101974e2bda9847fc20ea6e",
+  "com.northwind.oms.notification": "e52afc5905b4330f302323fd75a99e22",
+  "com.northwind.oms.reporting": "0967e8237907f384db99e0ce13cbf161"
+}
