@@ -31,3 +31,10 @@ jobs:
         working-directory: osgi-workshop
         run: |
           python build_pipeline.py changed
+
+      - name: Upload Build Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: northwind-artifacts
+          path: |
+            **/target/*.jar
